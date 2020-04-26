@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "40%"
+  icon = "clipboard-check"
+  icon_pack = "fas"
+  name = "Gestión de Proyectos"
+  description = "80%"
 
 [[feature]]
   icon = "chart-line"
