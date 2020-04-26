@@ -14,16 +14,16 @@ role: Account Executive at Start-Up Chile
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Start-Up Chile
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mis intereses se relacionan principalmente a Tecnología, Innovación y Políticas Públicas.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+intereses:
+- Transparencia y Acceso a la Información Pública
+- Innovación y Tecnología
+- Evaluación de Políticas Públicas
 
 education:
   courses:
