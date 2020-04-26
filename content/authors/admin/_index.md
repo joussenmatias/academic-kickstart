@@ -67,5 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Soy Administrador Público y Magíster en Políticas Públicas. Me intereso en la Transparencia y el Acceso a la Información Pública; los datos abiertos e innovación. Hoy trabajo en Start-Up Chile, la primera aceleradora de negocios pública del Mundo, y en mis tiempos libres me sumergo en datos abiertos.
+Soy Administrador Público y Magíster en Políticas Públicas. Me intereso en la Transparencia y el Acceso a la Información Pública; los datos abiertos e innovación. 
+
+Hoy trabajo en Start-Up Chile, la primera aceleradora de negocios pública del Mundo, y en mis tiempos libres me sumergo en datos abiertos.
 
