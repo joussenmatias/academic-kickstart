@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:joussen.arteaga@gmail.com".
-- icon: twitter
+- icon: medium
   icon_pack: fab
-  link: https://twitter.com/heroesotumbas
+  link: https://medium.com/@joussenmatias
 - icon: academia
   icon_pack: ai
   link: https://independent.academia.edu/JoussenArteaga
