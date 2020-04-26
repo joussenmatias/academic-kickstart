@@ -45,17 +45,17 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/heroesotumbas
-- icon: google-scholar
+- icon: academia
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://independent.academia.edu/JoussenArteaga
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/joussenmatias
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Soy Administrador Público y Magíster en Políticas Públicas. Mis intereses son la Transparencia y Acceso a la Información Pública; Datos Abiertos e Innovación. Hoy trabajo en Start-Up Chile, la primera aceleradora de negocios pública del Mundo.
+Soy Administrador Público y Magíster en Políticas Públicas. Me intereso en la Transparencia y el Acceso a la Información Pública; los datos abiertos e innovación. Hoy trabajo en Start-Up Chile, la primera aceleradora de negocios pública del Mundo, y en mis tiempos libres me sumergo en datos abiertos.
 
