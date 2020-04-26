@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Account Executive at Start-Up Chile
+role: Account Executive
 
 # Organizations/Affiliations
 organizations:
