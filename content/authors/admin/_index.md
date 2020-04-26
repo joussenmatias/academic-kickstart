@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Joussen Arteaga
+title: Joussen Arteaga P.
 
 # Username (this should match the folder name)
 authors:
