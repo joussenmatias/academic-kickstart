@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = []
+address = ""
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = []
+coordinates = ""
 
 # Directions for visitors to locate you.
 directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -108,7 +108,7 @@ contact_links = [ ]
 
 
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  
+
 
 ############################
 ## Social
