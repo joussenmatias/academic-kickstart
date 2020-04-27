@@ -36,8 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-10-25"
   date_end = "2020-01-08"
-  description = "El objetivo de este curso es entregar a los participantes las habilidades y conocimientos
-básicos que les permitan utilizar efectivamente R como una herramienta de análisis de datos"
+  description = "El objetivo de este curso es entregar a los participantes las habilidades y conocimientos básicos que les permitan utilizar efectivamente R como una herramienta de análisis de datos"
 
 [[item]]
   organization = "Millennium Institute Market Imperfections and Public Policy- MIPP"
